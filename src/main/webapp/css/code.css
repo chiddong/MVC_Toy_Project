@@ -1,0 +1,119 @@
+@font-face {
+  font-family: 'Godo';
+  font-style: normal;
+  font-weight: 400;
+  src: url('//cdn.jsdelivr.net/korean-webfonts/1/corps/godo/Godo/GodoM.woff2') format('woff2'), url('//cdn.jsdelivr.net/korean-webfonts/1/corps/godo/Godo/GodoM.woff') format('woff');
+}
+
+html, body {
+	margin: 0px;
+	padding: 0px;
+}
+
+body, p, div, span, a, h1, h2, h3, input, select, textarea, button, table, th, td {
+	font-family: 'Godo';
+	color: #555;
+	font-size: 1rem;
+} 
+
+h1 { font-size: 3rem; }
+h2 { font-size: 2.5rem; }
+h3 { font-size: 2rem; }
+
+
+input, textarea, button {
+	border: 1px solid #999;
+	border-radius: 5px;
+	outline: none;
+	resize: none;
+	padding: 5px;
+}
+
+table {
+	border: 1px solid #999;
+	border-collapse: collapse;
+}
+
+table th, table td {
+	border: 1px solid #999;
+	padding: 5px;
+}
+
+table th {
+	background-color: #DDD;
+}
+
+
+
+.btns {
+	margin-top: 20px;
+	width: 740px;
+	margin: 20px auto;
+	
+}
+
+.btns .main {
+	background-color: #CBDABC;
+	cursor: pointer;
+}
+
+.btns .main:hover {
+	background-color: #FFFCCC;
+}
+
+body {
+	background-color: #FFFCCC;
+	display: flex;
+	justify-content: center;
+}
+
+main {
+	background-color: #FFFFFF;
+	width: 800px;
+	margin: 0px auto;
+	box-shadow: 0 0 5px #CCC;
+}
+
+
+main > header {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   height: 150px;
+   border-bottom: 1px solid #999;
+   font-size: 3.5rem;
+}
+
+main > header > div {
+   font-size: 1rem;
+   margin-top: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
