@@ -51,30 +51,29 @@
  ### ✨구현 화면
 &nbsp;
 &nbsp;
- ###### _메인화면_
+###### _메인화면_
 <img width="1280" alt="메인화면" src="https://user-images.githubusercontent.com/111338981/212660404-323103d5-31cc-4b7c-9525-c42614f85103.png">
 &nbsp;
 &nbsp;
- ###### _회원 로그인 후 아무것도 없을 때_
+###### _회원 로그인 후 아무것도 없을 때_
 <img width="1280" alt="회원로그인 - 아무것도 없을때" src="https://user-images.githubusercontent.com/111338981/212660427-57247f10-ce38-4a3a-ba88-cd4a508dd4ba.png">
 &nbsp;
 &nbsp;
- ###### _회원 로그인 후 등록 코드 있을 때_
+###### _회원 로그인 후 등록 코드 있을 때_
 <img width="1280" alt="회원로그인 - 등록한 코드 있을때" src="https://user-images.githubusercontent.com/111338981/212660410-8de9546e-dc17-4a69-a013-226ea3bcdd60.png">
 &nbsp;
 <img width="1280" alt="회원로그인 - 등록한 코드 있을때2" src="https://user-images.githubusercontent.com/111338981/212660416-0b4e5b83-a0e1-4e7d-b758-2ad626d71b90.png">
 &nbsp;
 &nbsp;
- ###### _회원 로그인 후 등록 코드 1개 존재_
+###### _회원 로그인 후 등록 코드 1개 존재_
 <img width="893" alt="회원로그인 - 등록한 코드가 1개있을때" src="https://user-images.githubusercontent.com/111338981/212660419-cbcd3081-e907-4490-b947-0b1380b0c982.png">
 &nbsp;
 &nbsp;
-
- ###### _회원 게시글 작성하기_
+###### _회원 게시글 작성하기_
 <img width="1280" alt="회원로그인- 작성하기" src="https://user-images.githubusercontent.com/111338981/212660430-7eaa2c02-14cd-4048-8adc-a18392bb3f5b.png">
 &nbsp;
 &nbsp;
- ###### _회원 로그인 후 수정하기_
+###### _회원 로그인 후 수정하기_
 <img width="863" alt="회원 로그인 - 수정하기" src="https://user-images.githubusercontent.com/111338981/212660409-034e6afa-d821-44ec-93b9-3764710324ff.png">
 &nbsp;
 &nbsp;
